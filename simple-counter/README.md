@@ -4,7 +4,7 @@ A clean, minimal counter app built as part of **The Vegas Playground Projects** 
 
 This isn't meant to be a complex or "impressive" project — it's meant to be **simple enough to fully understand**, so beginners can clone it, read through the whole codebase in a few minutes, and start experimenting without feeling overwhelmed.
 
-![Simple Counter Preview](/assets/review.png)
+![Simple Counter Preview](assets/review.png)
 
 ## Who This Is For
 
