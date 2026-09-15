@@ -15,6 +15,7 @@ body {
   align-items: center;
   padding: 60px 20px;
   color: #1a1a1a;
+  position: relative;
 }
 
 h1 {
@@ -43,7 +44,7 @@ p.subtitle {
 }
 
 .project-card {
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 99, 71, 0.235);
   border-radius: 14px;
   padding: 28px 24px;
   text-decoration: none;
@@ -78,6 +79,10 @@ p.subtitle {
   background: rgba(255, 255, 255, 0.2);
   padding: 4px 10px;
   border-radius: 20px;
+}
+
+.temp-converter {
+  background-color: rgba(0, 255, 255, 0.37);
 }
 
 footer {
