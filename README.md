@@ -10,7 +10,8 @@ Each project is simple by design: small enough to read and understand in a few m
 
 | Project | Description | Live Demo |
 |---|---|---|
-| [Simple Counter](./simple-counter) | A minimal counter with increment, decrement, reset, and keyboard support | [Live →](https://vegazzs.github.io/vegas-playground/simple-counter/counter.html) |
+| [Simple Counter](./simple-counter/assets/review.png) | A minimal counter with increment, decrement, reset, and keyboard support | [Live →](https://vegazzs.github.io/vegas-playground/simple-counter/counter.html) |
+| [Temperature Converter](./temperature-converter/assets/preview.png) | Live two-way converter between Celsius, Fahrenheit, and Kelvin | [Live →](https://vegazzs.github.io/vegas-playground/temperature-converter/temperature.html) |
 
 *(More projects will be added here as they're built.)*
 
@@ -33,9 +34,14 @@ vegas-playground-projects/
 ├── index.html            ← landing page linking to all projects
 ├── README.md             ← this file
 ├── simple-counter/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
+│   ├── counter.html
+│   ├── coubter.css
+│   ├── counter.js
+│   └── README.md
+└── temperature-converter/
+    ├── temperature.html
+│   ├── temperature.css
+│   ├── temperature.js
 │   └── README.md
 └── (more projects to come)
 ```
