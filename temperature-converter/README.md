@@ -29,7 +29,7 @@ No frameworks, no build tools, no dependencies — intentionally kept simple so 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vegazzs/vegas-playground
+   git clone https://github.com/vegazzs/vegas-playground/tree/main/temperature-converter
    ```
 2. Open `temperature-converter/temperature.html` in your browser.
 

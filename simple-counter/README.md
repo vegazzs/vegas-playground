@@ -32,7 +32,7 @@ No frameworks, no build tools, no dependencies — intentionally kept simple so 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/simple-counter.git
+   git clone https://github.com/vegazzs/vegas-playground/tree/main/simple-counter
    ```
 2. Open `index.html` in your browser.
 
