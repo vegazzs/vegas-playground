@@ -10,8 +10,8 @@ Each project is simple by design: small enough to read and understand in a few m
 
 | Project | Description | Live Demo |
 |---|---|---|
-| [Simple Counter](./simple-counter/assets/review.png) | A minimal counter with increment, decrement, reset, and keyboard support | [Live →](https://vegazzs.github.io/vegas-playground/simple-counter/counter.html) |
-| [Temperature Converter](./temperature-converter/assets/preview.png) | Live two-way converter between Celsius, Fahrenheit, and Kelvin | [Live →](https://vegazzs.github.io/vegas-playground/temperature-converter/temperature.html) |
+| [Simple Counter](./simple-counter/) | A minimal counter with increment, decrement, reset, and keyboard support | [Live →](https://vegazzs.github.io/vegas-playground/simple-counter/counter.html) |
+| [Temperature Converter](./temperature-converter/) | Live two-way converter between Celsius, Fahrenheit, and Kelvin | [Live →](https://vegazzs.github.io/vegas-playground/temperature-converter/temperature.html) |
 
 *(More projects will be added here as they're built.)*
 

@@ -2,7 +2,7 @@
 
 A live temperature converter built as part of **The Vegas Playground Projects** — a series of small, beginner-friendly builds for developers just starting out. Type a value into any of the three fields (Celsius, Fahrenheit, or Kelvin) and watch the other two update instantly.
 
-![Temperature Converter Preview](/assets/preview.png)
+![Temperature Converter Preview](./assets/preview.png)
 
 ## Who This Is For
 
