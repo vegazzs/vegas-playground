@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: cursive;
+  font-family: 'Comic Neue', cursive, sans-serif;
   background:
     linear-gradient(rgba(15, 30, 50, 0.712), rgba(15, 30, 50, 0.772)),
     url("assets/image.jpg") center center / cover no-repeat fixed;
