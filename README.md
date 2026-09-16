@@ -4,7 +4,7 @@ A growing collection of small, beginner-friendly front-end builds — practice p
 
 Each project is simple by design: small enough to read and understand in a few minutes, but real enough to practice actual developer skills on — writing code, committing changes, branching, and merging.
 
-**[View the live site →](https://github.com/vegazzs/vegas-playground.git/)**
+**[View the live site →](https://vegazzs.github.io/vegas-playground/)**
 
 ## Projects
 
