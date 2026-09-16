@@ -23,13 +23,14 @@ header {
   font-size: 1.1rem;
   color: white;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 20px auto;
 }
 
 /*TEMPERATURE CONVERTER SECTION*/
 main {
   display: flex;
   flex-direction: column;
-  width: clamp(300px, 70%, 700px);
+  width: clamp(350px, 70%, 700px);
   border-radius: 15px;
   justify-content: center;
   background-color: rgba(255, 252, 252, 0.518);
@@ -92,7 +93,7 @@ label {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  padding: 15px;
+  padding: 10px;
 }
 
 .facts-con ul {
