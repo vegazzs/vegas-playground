@@ -1,6 +1,6 @@
 # The Vegas Playground Projects
 
-A growing collection of small, beginner-friendly front-end builds — practice projects meant to help developers (myself included) get comfortable with core JavaScript, HTML, CSS, and Git workflows.
+A growing collection of small, beginner-friendly front-end builds — practice projects meant to help developers get comfortable with core JavaScript, HTML, CSS, and Git workflows.
 
 Each project is simple by design: small enough to read and understand in a few minutes, but real enough to practice actual developer skills on — writing code, committing changes, branching, and merging.
 
@@ -12,6 +12,7 @@ Each project is simple by design: small enough to read and understand in a few m
 |---|---|---|
 | [Simple Counter](./simple-counter/) | A minimal counter with increment, decrement, reset, and keyboard support | [Live →](https://vegazzs.github.io/vegas-playground/simple-counter/counter.html) |
 | [Temperature Converter](./temperature-converter/) | Live two-way converter between Celsius, Fahrenheit, and Kelvin | [Live →](https://vegazzs.github.io/vegas-playground/temperature-converter/temperature.html) |
+| [Dice Roller](./dice-roller/) | Simple dice roller with animated rolls and matching dice-face images| [Live →](https://vegazzs.github.io/vegas-playground/dice-roller/dice.html) |
 
 *(More projects will be added here as they're built.)*
 
@@ -39,16 +40,25 @@ vegas-playground-projects/
 │   ├── counter.js
 │   └── README.md
 └── temperature-converter/
-    ├── temperature.html
+|   ├── temperature.html
 │   ├── temperature.css
 │   ├── temperature.js
 │   └── README.md
+
+├──dice-roller/
+├── dice.html
+├── dice.css
+├── dice.js
+├── assets/
+| └──bgs/
+│ └── diceImgs/
+└── README.md
 └── (more projects to come)
 ```
 
 ## Author
 
-Built by **Vegas** — a developer learning in public, one small project at a time.
+Built by **Vegas** — a developer learning and building in public, one small project at a time.
 
 ## License
 
