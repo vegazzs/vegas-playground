@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A simple beginner Dice roller project made with html, css & javascript"
+    />
+    <meta
+      name="keywords"
+      content="html, css, javascript, javascript beginner project"
+    />
+    <title>Dice Roller</title>
+    <link rel="stylesheet" href="dice.css" />
+
+    <!--FONTS-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Monoton&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>DICE ROLLER</header>
+
+    <div id="container">
+      <label>Select Number of Dice</label>
+      <input type="number" id="diceInput" value="1" min="1" max="10" />
+      <button id="rollDice" onclick="diceRoller()">ROLL DICE</button>
+      <div id="diceResult"></div>
+      <div id="diceImages"></div>
+    </div>
+
+    <div class="facts">
+      <h3>🎲 Fun Dice Facts</h3>
+      <ul>
+        <li>
+          Opposite sides of a standard six-sided die always add up to seven. One
+          and six, two and five, three and four.
+        </li>
+        <li>
+          The oldest known dice date back over 5,000 years, found in Iran and
+          Egypt. People have been rolling for chance since before written
+          history.
+        </li>
+        <li>
+          A fair six-sided die gives each number a one in six chance, but roll
+          two dice together and seven becomes the most likely total, since more
+          combinations add up to it than any other number.
+        </li>
+        <li>
+          Casino dice are precision made to strict tolerances, often accurate to
+          within a few thousandths of an inch, to guarantee a truly random roll.
+        </li>
+        <li>
+          The plural of die is technically dice, though in casual speech people
+          often say die for both one and many.
+        </li>
+      </ul>
+    </div>
+
+    <footer>
+      <p>Software by Vegas</p>
+      <a href="https://sbvegas.vercel.app">Portfolio</a>
+    </footer>
+
+    <script src="dice.js"></script>
+  </body>
+</html>
