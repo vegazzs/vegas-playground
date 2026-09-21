@@ -81,9 +81,6 @@ p.subtitle {
   border-radius: 20px;
 }
 
-.temp-converter {
-  background-color: rgba(0, 255, 255, 0.37);
-}
 
 footer {
   margin-top: 60px;
@@ -97,4 +94,12 @@ footer {
 footer a {
   color: white;
   text-decoration: underline;
+}
+
+/*PROJECTS*/
+.temp-converter {
+  background-color: rgba(0, 255, 255, 0.37);
+}
+.dice-roller {
+  background-color: rgba(128, 0, 128, 0.315);
 }
