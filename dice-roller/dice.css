@@ -83,6 +83,9 @@ input {
   width: 100px;
   margin: 10px;
 }
+#diceResult{
+  color: red;
+}
 
 /*DICE FACTS*/
 .facts {

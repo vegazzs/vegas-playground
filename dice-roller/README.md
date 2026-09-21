@@ -61,7 +61,7 @@ The core logic loops once for each die requested, generating a random number bet
 
 ## Author
 
-Built by **Vegas** — part of [The Vegas Playground Projects](https://github.com/<your-username>/SBV-playground), a series of simple, beginner-friendly builds for developers just starting out.
+Built by **Vegas** — part of [The Vegas Playground Projects](https://github.com/vegazzs/vegas-playground/), a series of simple, beginner-friendly builds for developers just starting out.
 
 ## License
 
